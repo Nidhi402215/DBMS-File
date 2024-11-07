@@ -1,6 +1,3 @@
-REM   Script: Experiment 01
-REM   Experiment 01 
-
 -- Creating table Employee
 create table Employee(Emp_No number(5) primary key , 
     Ename varchar2(10) Not null, 
